@@ -1,6 +1,11 @@
 # Insurance-chat-bot- INSURATRON
- 
+![fig1](1.png)
+
+![fig2](2.png) 
+
+![fig3](3.png) 
 Hey there! This project has been quite an exciting journey for me, as I've dived deep into the world of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and vector databases. The idea behind this chatbot was to create something that could meaningfully interact with insurance documents, providing users with detailed answers to their questions in an intuitive way. Through this process, I've learned not only about the power of LLMs but also how LLMOps (LLM Operations) can effectively support complex workflows like RAG. Let me take you through what I've built, step by step.
+
 
 ## Project Overview
 
